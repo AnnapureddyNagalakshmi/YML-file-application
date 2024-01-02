@@ -1,0 +1,10 @@
+naga:
+  messages:
+    welcomeMsg: Welcome To Infosys
+    greetMsg: All The Best
+    wishMsg: Good Morning
+server:
+  port: 9090
+spring:
+  application:
+    name: sb-yml-app
